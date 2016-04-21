@@ -1,0 +1,9 @@
+﻿<Window x:Class="ConnectivityNotifier.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Connectivity Notifier" Height="143.559" Width="282.966" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid>
+        <Label x:Name="Label_State" Content="=(" HorizontalAlignment="Left" Margin="92,-13,0,0" VerticalAlignment="Top" FontSize="72" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
